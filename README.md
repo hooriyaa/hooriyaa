@@ -1,43 +1,43 @@
-<!-- 🟦 Animated Header Banner -->
+<!-- 🌸 Soft Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Welcome%20to%20My%20World!%20🌍&fontSize=40&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F472B6&height=200&section=header&text=Welcome%20to%20My%20World%20💖&fontSize=38&fontAlign=50&fontColor=ffffff" />
 </p>
 
-<!-- 🙋‍♀️ Name and Tagline -->
-<h1 align="center">✨ Hi, I'm <span style="color:#0ea5e9;">Hooriya Muhammad Fareed</span> 👩‍💻</h1>
-<h3 align="center">🧠 Frontend Developer | 🐍 Python Learner | 🤖 AI Explorer | 💡 Lifelong Learner</h3>
+<!-- 💁‍♀️ Name and Subtitle -->
+<h1 align="center">✨ Hi, I'm <span style="color:#ec4899;">Hooriya Muhammad Fareed</span> 💻</h1>
+<h3 align="center">Frontend Developer 💖 | Python Explorer 🐍 | AI Enthusiast 🤖 | Forever Learner 📚</h3>
 
-<!-- 💬 Typing Animation -->
+<!-- 🖋️ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=✨ Passionate+Frontend+Developer;💻 Creating+Smooth+and+Beautiful+UI+Experiences;⚡ Focused+on+Clean+Code+and+Performance" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Crafting+beautiful+web+experiences;Building+with+Next.js+and+TailwindCSS;Coding+with+passion+and+creativity" alt="Typing animation" />
 </p>
 
-<!-- 🤝 Handshake GIF -->
+<!-- 👋 Handshake GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="80px" />
 </p>
 
 ---
 
-### 🌟 About Me
+### 💡 About Me
 
-- 🎯 Currently exploring the world of **AI & Machine Learning**
-- 🧩 Building responsive and performant UIs with **Next.js**, **TypeScript**, and **TailwindCSS**
-- 📐 Clean code, accessibility, and UI/UX are my core focus
-- 💌 Email me at: **gujjarmahnorr@gmail.com**
-- 🌐 My Portfolio: [**Click Here**](https://portfolio-by-hooriya-muhammad-fareed.netlify.app/)
+- 👩‍💻 Diving into the world of **AI & Machine Learning**
+- 🎨 Passionate about designing clean UIs using **Next.js**, **Tailwind**, **TypeScript**
+- ⚡ I focus on performance, accessibility, and pixel-perfect design
+- 📬 Email: **gujjarmahnorr@gmail.com**
+- 🔗 Portfolio: [**Visit Here**](https://portfolio-by-hooriya-muhammad-fareed.netlify.app/)
 
 ---
 
-### 🚀 Tech Stack
+### 🛠️ My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,python,git,vscode" />
 </p>
 
-<!-- Extra Touch: Animated Tools GIF -->
+<!-- 👩‍💻 Animated Coding Girl -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="320px" />
 </p>
 
 ---
@@ -45,15 +45,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hooriyaa&theme=blue-green&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hooriyaa&theme=rose_pine&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hooriyaa&show_icons=true&theme=blue-green&hide_border=false&rank_icon=github" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hooriyaa&show_icons=true&theme=rose_pine&hide_border=false&rank_icon=github" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hooriyaa&layout=compact&theme=blue-green&hide_border=false" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hooriyaa&layout=compact&theme=rose_pine&hide_border=false" />
 </p>
 
 ---
@@ -62,19 +62,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hooriya-muhammad-fareed-57a320302/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_hooriya_M.fareed_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://portfolio-by-hooriya-muhammad-fareed.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<!-- 🌀 Animated Footer Wave -->
+<!-- 🌷 Aesthetic Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F472B6&height=120&section=footer" />
 </p>
