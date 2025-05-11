@@ -1,6 +1,6 @@
 <!-- 🌸 Soft Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F472B6&height=200&section=header&text=Welcome%20to%20My%20World%20💖&fontSize=38&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F472B6&height=200&section=header&text=Welcome%20to%20My%20World%20&fontSize=38&fontAlign=50&fontColor=ffffff" />
 </p>
 
 <!-- 💁‍♀️ Name and Subtitle -->
