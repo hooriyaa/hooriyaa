@@ -9,7 +9,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer+Crafting+Beautiful+UIs;Next.js+%7C+TypeScript+%7C+TailwindCSS+Fan;Exploring+AI+%26+Machine+Learning;Sharing+My+Tech+Journey+Every+Day+💻🚀" alt="Typing animation" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Frontend+Developer;Loves+to+build+UI+experiences" alt="Typing SVG" />
 </p>
 
 <!-- Handshake GIF -->
