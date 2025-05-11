@@ -1,38 +1,43 @@
-<!-- Animated Header Banner -->
+<!-- 🟦 Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=180&section=header&text=Welcome%20to%20My%20World%20🌍&fontSize=40&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Welcome%20to%20My%20World!%20🌍&fontSize=40&fontAlign=50&fontColor=ffffff" />
 </p>
 
-<!-- Name and Title -->
-<h1 align="center">✨ Hi there, I'm <span style="color:#38BDF8">Hooriya Muhammad Fareed</span> 👋</h1>
-<h3 align="center">🌐 Frontend Developer | 🐍 Python Enthusiast | 🤖 AI Explorer | 📚 Lifelong Learner</h3>
+<!-- 🙋‍♀️ Name and Tagline -->
+<h1 align="center">✨ Hi, I'm <span style="color:#0ea5e9;">Hooriya Muhammad Fareed</span> 👩‍💻</h1>
+<h3 align="center">🧠 Frontend Developer | 🐍 Python Learner | 🤖 AI Explorer | 💡 Lifelong Learner</h3>
 
-<!-- Typing Animation -->
+<!-- 💬 Typing Animation -->
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Frontend+Developer;Loves+to+build+UI+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=✨ Passionate+Frontend+Developer;💻 Creating+Smooth+and+Beautiful+UI+Experiences;⚡ Focused+on+Clean+Code+and+Performance" alt="Typing animation" />
 </p>
 
-<!-- Handshake GIF -->
+<!-- 🤝 Handshake GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
 </p>
 
 ---
 
-### 💡 About Me
+### 🌟 About Me
 
-- 🤖 Currently diving into **AI & Machine Learning**
-- 🛠️ Passionate about building UIs with **Next.js**, **TypeScript**, and **TailwindCSS**
-- 🌍 Focused on performance, accessibility, and clean code
-- 📬 Reach me at: **gujjarmahnorr@gmail.com**
-- 🌐 Check out my work: [**My Portfolio**](https://portfolio-by-hooriya-muhammad-fareed.netlify.app/)
+- 🎯 Currently exploring the world of **AI & Machine Learning**
+- 🧩 Building responsive and performant UIs with **Next.js**, **TypeScript**, and **TailwindCSS**
+- 📐 Clean code, accessibility, and UI/UX are my core focus
+- 💌 Email me at: **gujjarmahnorr@gmail.com**
+- 🌐 My Portfolio: [**Click Here**](https://portfolio-by-hooriya-muhammad-fareed.netlify.app/)
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,tailwind,python,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,git,vscode" />
+</p>
+
+<!-- Extra Touch: Animated Tools GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
 </p>
 
 ---
@@ -40,15 +45,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hooriyaa&theme=tokyonight&hide_border=false&stroke=ffffff" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hooriyaa&theme=blue-green&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hooriyaa&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hooriyaa&show_icons=true&theme=blue-green&hide_border=false&rank_icon=github" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hooriyaa&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hooriyaa&layout=compact&theme=blue-green&hide_border=false" alt="Top Languages"/>
 </p>
 
 ---
@@ -69,7 +74,7 @@
 
 ---
 
-<!-- Animated Footer Wave -->
+<!-- 🌀 Animated Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=footer"/>
 </p>
