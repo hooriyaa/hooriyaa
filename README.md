@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🌱 I’m currently doing **100 Days of Code Challenge**
+-  🤖 Currently diving into the world of **AI and Machine Learning** 
 - 🌟 Exploring frontend development using **Next.js**, **TypeScript**, and **TailwindCSS**
 - 📫 How to reach me: **gujjarmahnorr@gmail.com**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-by-hooriya-muhammad-fareed.netlify.app/)
