@@ -15,10 +15,9 @@
 
 ### 💡 About Me
 
-- 👩‍💻 Diving into the world of **AI & Machine Learning**
+- 👩‍💻 Diving into the world of **AI**
 - 🎨 Passionate about designing clean UIs using **Next.js**, **Tailwind**, **TypeScript**
 - ⚡ I focus on performance, accessibility, and pixel-perfect design
-- 📬 Email: **gujjarmahnorr@gmail.com**
 - 🔗 Portfolio: [**Visit Here**](https://portfolio-by-hooriya-muhammad-fareed.netlify.app/)
 
 ---
