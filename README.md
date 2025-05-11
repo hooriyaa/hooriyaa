@@ -4,7 +4,7 @@
 </p>
 
 <!-- 💁‍♀️ Name and Subtitle -->
-<h1 align="center">✨ Hi, I'm <span style="color:#ec4899;">Hooriya Muhammad Fareed</span> 💻</h1>
+<h1 align="center">✨ Hi, I'm <span style="color:#ec4899;">Hooriya M.Fareed</span> 💻</h1>
 <h3 align="center">Frontend Developer 💖 | Python Explorer 🐍 | AI Enthusiast 🤖 | Forever Learner 📚</h3>
 
 <!-- 🖋️ Typing Animation -->
