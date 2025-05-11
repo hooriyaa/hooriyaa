@@ -12,12 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Crafting+beautiful+web+experiences;Building+with+Next.js+and+TailwindCSS;Coding+with+passion+and+creativity" alt="Typing animation" />
 </p>
 
-<!-- 👋 Handshake GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="80px" />
-</p>
-
----
 
 ### 💡 About Me
 
