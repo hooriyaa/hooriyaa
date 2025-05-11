@@ -1,16 +1,20 @@
+<!-- Animated Header Banner -->
 <p align="center">
-  <img src="https://github.com/hooriyaa/hooriyaa/assets/hooriyaa/banner.gif" alt="Welcome Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=180&section=header&text=Welcome%20to%20My%20World%20🌍&fontSize=40&fontAlign=50&fontColor=ffffff" />
 </p>
 
-<h1 align="center">✨ Hi there, I'm Hooriya Muhammad Fareed! 👋</h1>
-<h3 align="center">🌐 Frontend Developer | 🐍 Python Enthusiast | 📚 Lifelong Learner</h3>
+<!-- Name and Title -->
+<h1 align="center">✨ Hi there, I'm <span style="color:#38BDF8">Hooriya Muhammad Fareed</span> 👋</h1>
+<h3 align="center">🌐 Frontend Developer | 🐍 Python Enthusiast | 🤖 AI Explorer | 📚 Lifelong Learner</h3>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer+Crafting+Beautiful+UIs;Next.js+%7C+TypeScript+%7C+TailwindCSS+Lover;Exploring+the+World+of+AI+and+Machine+Learning" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer+Crafting+Beautiful+UIs;Next.js+%7C+TypeScript+%7C+TailwindCSS+Fan;Exploring+AI+%26+Machine+Learning;Sharing+My+Tech+Journey+Every+Day+💻🚀" alt="Typing animation" />
 </p>
 
+<!-- Handshake GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
 </p>
 
 ---
@@ -18,17 +22,17 @@
 ### 💡 About Me
 
 - 🤖 Currently diving into **AI & Machine Learning**
-- 🛠️ Love building sleek UIs using **Next.js**, **TypeScript**, and **TailwindCSS**
-- 📝 Exploring modern web development with performance & accessibility in mind
-- 📫 Reach me at: **gujjarmahnorr@gmail.com**
+- 🛠️ Passionate about building UIs with **Next.js**, **TypeScript**, and **TailwindCSS**
+- 🌍 Focused on performance, accessibility, and clean code
+- 📬 Reach me at: **gujjarmahnorr@gmail.com**
 - 🌐 Check out my work: [**My Portfolio**](https://portfolio-by-hooriya-muhammad-fareed.netlify.app/)
 
 ---
 
-### 🔧 Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,tailwind,python,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,tailwind,python,git,vscode" />
 </p>
 
 ---
@@ -65,7 +69,7 @@
 
 ---
 
+<!-- Animated Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer"/>
 </p>
-
