@@ -2,9 +2,8 @@
 <h3 align="center">🌐 Frontend Developer | 🐍 Python Enthusiast | 📚 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Developer+Crafting+User+Experiences;Building+with+Next.js+%7C+TypeScript+%7C+TailwindCSS;Passionate+about+AI+and+Machine+Learning" alt="Typing animation" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Frontend+Developer;Loves+to+build+UI+experiences" alt="Typing SVG" />
 </p>
-
 ---
 
 ### 💡 About Me
