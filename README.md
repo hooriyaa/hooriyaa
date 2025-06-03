@@ -16,7 +16,9 @@
 
 ## 💡 About Me
 
-<img align="right" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="280"/>
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a1c0f089b2735a7c6e1638c5b1.gif" width="350"/>
+</div>
 
 - 👩‍💻 I’m a creative and hardworking frontend developer building responsive, user-focused websites.
 - ⚡ I specialize in **Next.js**, **React**, and **Tailwind CSS** to craft smooth UIs.
@@ -26,31 +28,29 @@
 
 ---
 
-## 🔧 Tech Toolbox
+## 🧰 Tech Toolbox
 
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,figma,git,github,vscode,vercel" />
-</p>
+</div>
+
+<br/>
+
+| **Category**       | **Technologies**                                                                 |
+|--------------------|----------------------------------------------------------------------------------|
+| **Languages**       | HTML, CSS, JavaScript, TypeScript, Python                                        |
+| **Frameworks**      | React.js, Next.js                                                               |
+| **Styling & UI**    | Tailwind CSS, ShadCN, Figma, Responsive Design                                  |
+| **Platforms**       | Sanity CMS, Clerk Auth, Stripe Integration                                      |
+| **AI & Integration**| Streamlit, OpenAI SDK, Gemini API                                               |
+| **Version Control** | Git, GitHub                                                                     |
 
 ---
 
-## 🎯 Tools I Work With
-
-| Category         | Technologies |
-|------------------|--------------|
-| **Languages**    | HTML, CSS, JavaScript, TypeScript, Python |
-| **Frameworks**   | React.js, Next.js |
-| **Styling**      | Tailwind CSS, ShadCN, Figma, Responsive Design |
-| **Platforms**    | Sanity CMS, Clerk Auth, Stripe Integration |
-| **AI & Backend** | Streamlit, OpenAI SDK, Gemini API |
-| **Versioning**   | Git, GitHub |
-
----
-
-## 👩‍💻 Live in Action
+## 👩‍💻 In Action Mode
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300px"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px"/>
 </p>
 
 ---
