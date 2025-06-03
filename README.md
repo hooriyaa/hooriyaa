@@ -23,8 +23,8 @@
 - 💡 I believe in clean design, accessibility, and solving real-world problems with code.
 - 🌐 Portfolio: [**Click here**](https://portfolio-by-hooriya-muhammad-fareed.netlify.app/)
 
-
 ---
+
 
 ## 🔧 Tech Toolbox
 
