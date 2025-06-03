@@ -13,12 +13,16 @@
 </p>
 
 
-### 💡 About Me
+## 💡 About Me
 
-- 👩‍💻 Diving into the world of **AI**
-- 🎨 Passionate about designing clean UIs using **Next.js**, **Tailwind**, **TypeScript**
-- ⚡ I focus on performance, accessibility, and pixel-perfect design
-- 🔗 Portfolio: [**Visit Here**](https://portfolio-by-hooriya-muhammad-fareed.netlify.app/)
+<img align="right" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="280"/>
+
+- 👩‍💻 I'm a creative frontend developer who enjoys turning ideas into beautiful and easy-to-use websites.
+- 💖 I love working with **Next.js**, **React** and **Tailwind CSS** to build clean and responsive designs.
+- 🤖 I'm also exploring the world of AI with tools like **Gemini**, **Streamlit**, and **OpenAI SDK**.
+- 💡 I believe in clean design, accessibility, and solving real-world problems with code.
+- 🌐 Portfolio: [**Click here**](https://portfolio-by-hooriya-muhammad-fareed.netlify.app/)
+
 
 ---
 
