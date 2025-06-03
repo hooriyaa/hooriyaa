@@ -1,79 +1,68 @@
-<!-- 🌸 Soft Animated Header Banner -->
+<!-- 🌸 Stylish Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F472B6&height=200&section=header&text=Hey%20There%20👋%20I'm%20Hooriya!&fontSize=38&fontAlign=50&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Hooriya+Muhammad+Fareed!;Frontend+Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+%7C+AI+Explorer+%7C+Lifelong+Learner" />
 </p>
 
-<!-- 👩‍💻 Profile Picture -->
+<!-- 👩‍💻 Center Image -->
 <p align="center">
-  <img src="https://i.ibb.co/jGqcD1p/developer-girl.gif" width="200px" alt="Developer cartoon girl" />
-</p>
-
-<h1 align="center">✨ Hooriya M. Fareed ✨</h1>
-<h3 align="center">Frontend Developer 💖 | AI Explorer 🤖 | Lifelong Learner 📚</h3>
-
-<!-- 🖋️ Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Designing+delightful+web+experiences;Creating+with+Next.js+and+TailwindCSS;Writing+clean%2C+efficient+code+everyday" alt="Typing animation" />
+  <img src="https://i.ibb.co/Qb2mjKT/girl-coding.gif" width="300" alt="Girl coding GIF" />
 </p>
 
 ---
 
 ### 🌟 About Me
 
-<img align="right" width="300" src="https://i.ibb.co/d7xps2h/coding-laptop.gif" alt="Coding animation" />
+I’m a creative and driven **Frontend Developer** who enjoys crafting beautiful and responsive web experiences using the latest technologies. I believe in building for **users first**, writing clean and efficient code, and always learning something new.
 
-- 🔭 I’m a passionate **frontend developer** who loves building interactive and accessible web experiences.
-- 🌈 I enjoy working with **React**, **Next.js**, **Tailwind CSS**, and constantly exploring new technologies.
-- 🤖 Currently exploring the world of **AI integration** in web applications.
-- ✨ I believe in clean code, clean UI, and lifelong learning.
-- 🌐 Check out my Portfolio: [**Click Here**](https://portfolio-by-hooriya-muhammad-fareed.netlify.app/)
+🔹 I work with **Next.js**, **React**, **Tailwind CSS**, and **TypeScript**  
+🔹 I’ve built projects that include authentication, API integration, and database management  
+🔹 I’m currently learning how to build **AI-powered applications** and **full-stack apps**
+
+📌 Check out my portfolio: [**View Portfolio**](https://portfolio-by-hooriya-muhammad-fareed.netlify.app/)
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🚀 Projects I've Built
+
+| 🖼️ Project | 🔧 Tech Stack | 🔗 Demo |
+|-----------|---------------|---------|
+| **Amazon Clone Page** | HTML, CSS | [Live Demo](https://amazon-page-clone.netlify.app/) |
+| **AI Assistant** | Next.js, OpenAI API, Tailwind | [Visit](https://ai-bot-app.netlify.app/) |
+| **Weather App** | JavaScript, API | [Explore](https://weatherapi-app-hooriya.netlify.app/) |
+
+---
+
+### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,git,github,vscode,figma,vercel" />
 </p>
-
-#### 🛠 Additional Tools & APIs:
-- 📦 **Design & Styling:** ShadCN, Figma, Responsive Design
-- 🔐 **Auth & Payments:** Clerk, Stripe
-- 🧠 **AI Tools:** Streamlit, OpenAI SDK, Gemini
-- 🗂 **CMS:** Sanity
-- 🚀 **Version Control:** Git & GitHub
 
 ---
 
-### 📈 GitHub Stats
+### 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=hooriyaa&theme=rose_pine&hide_border=false" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hooriyaa&show_icons=true&theme=rose_pine&hide_border=false&rank_icon=github" />
-  <br/><br/>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=hooriyaa&show_icons=true&theme=rose_pine&rank_icon=github&hide_border=false" />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hooriyaa&layout=compact&theme=rose_pine&hide_border=false" />
 </p>
 
 ---
 
-### 🌐 Let's Connect!
+### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hooriya-muhammad-fareed-57a320302/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/hooriya.fareed/?igsh=MWxja2ZqbDQzazA4dg%3D%3D#">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://portfolio-by-hooriya-muhammad-fareed.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/hooriya-muhammad-fareed-57a320302/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/hooriya.fareed/?igsh=MWxja2ZqbDQzazA4dg%3D%3D#"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://portfolio-by-hooriya-muhammad-fareed.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
-<!-- 🎉 Footer Banner -->
+<!-- 🌈 Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F472B6&height=120&section=footer" />
 </p>
