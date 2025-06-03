@@ -15,8 +15,6 @@
 
 ## 💡 About Me
 
-<img align="right" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="280"/>
-
 - 👩‍💻 I'm a creative frontend developer who enjoys turning ideas into beautiful and easy-to-use websites.
 - 💖 I love working with **Next.js**, **React** and **Tailwind CSS** to build clean and responsive designs.
 - 🤖 I'm also exploring the world of AI with tools like **Gemini**, **Streamlit**, and **OpenAI SDK**.
