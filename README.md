@@ -64,7 +64,7 @@
   <a href="https://www.instagram.com/hooriya.fareed/?igsh=MWxja2ZqbDQzazA4dg%3D%3D#">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://portfolio-by-hooriya-muhammad-fareed.netlify.app/">
+  <a href="https://hooriya-fareed.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
