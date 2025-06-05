@@ -19,7 +19,7 @@
 - 💖 I love working with **Next.js**, **React** and **Tailwind CSS** to build clean and responsive designs.
 - 🤖 I'm also exploring the world of AI with tools like **Gemini**, **Streamlit**, and **OpenAI SDK**.
 - 💡 I believe in clean design, accessibility, and solving real-world problems with code.
-- 🌐 Portfolio: [**Click here**](https://portfolio-by-hooriya-muhammad-fareed.netlify.app/)
+- 🌐 Portfolio: [**Click here**]((https://hooriya-fareed.netlify.app/))
 
 ---
 
